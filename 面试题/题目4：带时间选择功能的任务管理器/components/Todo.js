@@ -16,7 +16,7 @@ export default class Todo extends Component {
 
                     cursor: this.props.completed ? 'default' : 'pointer'
                 }}>
-                    {this.props.text}
+                    {this.props.text}<br/>
                 <TodoTime addTime={this.props.addTime}/>
             </Timeline.Item>
 
