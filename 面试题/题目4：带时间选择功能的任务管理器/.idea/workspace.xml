@@ -14,124 +14,185 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToduList/webpack.config.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="actions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action/actions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1495623781318" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+                <marker date="1495623781318" expanded="true" signature="39:58" ph="/*...*/" />
+                <marker date="1495623781318" expanded="true" signature="240:255" ph="/*...*/" />
+                <marker date="1495623781318" expanded="true" signature="290:388" ph="{&quot;SHOW_ALL&quot;: 'SHOW_ALL'...}" />
+                <marker date="1495623781318" expanded="true" signature="390:411" ph="/*...*/" />
+                <marker date="1495623781318" expanded="true" signature="451:498" ph="{...}" />
+                <marker date="1495623781318" expanded="true" signature="534:576" ph="{...}" />
+                <marker date="1495623781318" expanded="true" signature="612:655" ph="{...}" />
+                <marker date="1495623781318" expanded="true" signature="701:755" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="actions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToduList/action/actions.js">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-336">
+            <state relative-caret-position="-48">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1495604602470" expanded="true" signature="120:982" ph="{...}" />
+                <marker date="1495604602470" expanded="true" signature="198:598" ph="{...}" />
+                <marker date="1495604602470" expanded="true" signature="255:594" ph="{...}" />
+                <marker date="1495604602470" expanded="true" signature="278:365" ph="{...}" />
+                <marker date="1495604602470" expanded="true" signature="371:533" ph="{...}" />
+                <marker date="1495604602470" expanded="true" signature="602:974" ph="{...}" />
+                <marker date="1495604602470" expanded="true" signature="659:964" ph="{...}" />
+                <marker date="1495604602470" expanded="true" signature="677:753" ph="{...}" />
+                <marker date="1495604602470" expanded="true" signature="757:917" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="reducer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToduList/reducer/reducer.js">
+        <entry file="file://$PROJECT_DIR$/reducer/reducer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <marker date="1495626706900" expanded="true" signature="7:151" ph="..." />
+                <marker date="1495626706900" expanded="true" signature="244:367" ph="{...}" />
+                <marker date="1495626706900" expanded="true" signature="269:365" ph="{...}" />
+                <marker date="1495626706900" expanded="true" signature="302:329" ph="..." />
+                <marker date="1495626706900" expanded="true" signature="342:361" ph="..." />
+                <marker date="1495626706900" expanded="true" signature="404:1012" ph="{...}" />
+                <marker date="1495626706900" expanded="true" signature="429:1010" ph="{...}" />
+                <marker date="1495626706900" expanded="true" signature="449:600" ph="..." />
+                <marker date="1495626706900" expanded="true" signature="491:592" ph="{&quot;text&quot;: action.text...}" />
+                <marker date="1495626706900" expanded="true" signature="622:840" ph="..." />
+                <marker date="1495626706900" expanded="true" signature="726:789" ph="{...}" />
+                <marker date="1495626706900" expanded="true" signature="862:974" ph="..." />
+                <marker date="1495626706900" expanded="true" signature="987:1006" ph="..." />
+                <marker date="1495626706900" expanded="true" signature="1046:1077" ph="{&quot;visibilityFilter&quot;: visibilityFilter...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToduList/containers/App.js">
+        <entry file="file://$PROJECT_DIR$/containers/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1073">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#51#0" expanded="true" />
+                <marker date="1495625966035" expanded="true" signature="7:328" ph="..." />
+                <marker date="1495625966035" expanded="true" signature="358:1032" ph="{...}" />
+                <marker date="1495625966035" expanded="true" signature="371:1030" ph="{...}" />
+                <marker date="1495625966035" expanded="true" signature="1050:1324" ph="{...}" />
+                <marker date="1495625966035" expanded="true" signature="1102:1187" ph="{&quot;text&quot;: PropTypes.string.isRequired...}" />
+                <marker date="1495625966035" expanded="true" signature="1249:1310" ph="[...]" />
+                <marker date="1495625966035" expanded="true" signature="1362:1629" ph="{...}" />
+                <marker date="1495625966035" expanded="true" signature="1382:1627" ph="{...}" />
+                <marker date="1495625966035" expanded="true" signature="1420:1439" ph="..." />
+                <marker date="1495625966035" expanded="true" signature="1482:1532" ph="..." />
+                <marker date="1495625966035" expanded="true" signature="1572:1623" ph="..." />
+                <marker date="1495625966035" expanded="true" signature="1631:1764" ph="//..." />
+                <marker date="1495625966035" expanded="true" signature="1788:1919" ph="{...}" />
+                <marker date="1495625966035" expanded="true" signature="1799:1917" ph="{&quot;visibilityFilter&quot;: state.visibilityFilter...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Footer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToduList/components/Footer.js">
+        <entry file="file://$PROJECT_DIR$/components/Footer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="31" column="42" lean-forward="false" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#39#90#0" expanded="true" />
+                <marker date="1495632048530" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+                <marker date="1495632048530" expanded="true" signature="46:120" ph="..." />
+                <marker date="1495632048530" expanded="true" signature="234:1513" ph="{...}" />
+                <marker date="1495632048530" expanded="true" signature="240:606" ph="//..." />
+                <marker date="1495632048530" expanded="true" signature="621:1511" ph="{...}" />
+                <marker date="1495632048530" expanded="true" signature="721:744" ph="{...}" />
+                <marker date="1495632048530" expanded="true" signature="1154:1495" ph="//..." />
+                <marker date="1495632048530" expanded="true" signature="1534:1700" ph="{&quot;onFilterChange&quot;: PropTypes.func.isRequired...}" />
+                <marker date="1495632048530" expanded="true" signature="1611:1686" ph="[...]" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToduList/index.js">
+        <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
+            <state relative-caret-position="264">
               <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#39#64#0" expanded="true" />
+                <marker date="1495631369186" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+                <marker date="1495631369186" expanded="true" signature="46:249" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddTodo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToduList/components/AddTodo.js">
+      <file leaf-file-name="AddTodo.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/components/AddTodo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="37" column="29" lean-forward="false" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Todo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/components/Todo.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Todo.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ToduList/components/Todo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#39#90#0" expanded="true" />
+                <marker date="1495633798839" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+                <marker date="1495633798839" expanded="true" signature="46:157" ph="..." />
+                <marker date="1495633798839" expanded="true" signature="203:681" ph="{...}" />
+                <marker date="1495633798839" expanded="true" signature="218:638" ph="{...}" />
+                <marker date="1495633798839" expanded="true" signature="397:490" ph="{...}" />
+                <marker date="1495633798839" expanded="true" signature="643:677" ph="//..." />
+                <marker date="1495633798839" expanded="true" signature="700:904" ph="{&quot;onClick&quot;: PropTypes.func.isRequired...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TodoList.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToduList/components/TodoList.js">
+        <entry file="file://$PROJECT_DIR$/components/TodoList.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#39#90#0" expanded="true" />
+                <marker date="1495631998342" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+                <marker date="1495631998342" expanded="true" signature="46:149" ph="..." />
+                <marker date="1495631998342" expanded="true" signature="199:723" ph="{...}" />
+                <marker date="1495631998342" expanded="true" signature="214:721" ph="{...}" />
+                <marker date="1495631998342" expanded="true" signature="746:1047" ph="{&quot;onTodoClick&quot;: PropTypes.func.isRequired...}" />
+                <marker date="1495631998342" expanded="true" signature="881:1021" ph="{&quot;text&quot;: PropTypes.string.isRequired...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TodoTime.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToduList/components/TodoTime.js">
+        <entry file="file://$PROJECT_DIR$/components/TodoTime.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1495620782149" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+                <marker date="1495620782149" expanded="true" signature="140:267" ph="{...}" />
+                <marker date="1495620782149" expanded="true" signature="155:265" ph="{...}" />
+                <marker date="1495620782149" expanded="true" signature="290:333" ph="{&quot;addTime&quot;: PropTypes.string.isRequired...}" />
               </folding>
             </state>
           </provider>
@@ -150,21 +211,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../ToduList/.babelrc" />
-        <option value="$PROJECT_DIR$/../ToduList/server.js" />
-        <option value="$PROJECT_DIR$/../ToduList/package.json" />
-        <option value="$PROJECT_DIR$/../ToduList/action/action.js" />
-        <option value="$PROJECT_DIR$/../ToduList/index.html" />
-        <option value="$PROJECT_DIR$/../ToduList/components/TodoTime.js" />
-        <option value="$PROJECT_DIR$/../ToduList/webpack.config.js" />
-        <option value="$PROJECT_DIR$/../ToduList/action/actions.js" />
-        <option value="$PROJECT_DIR$/../ToduList/containers/App.js" />
-        <option value="$PROJECT_DIR$/../ToduList/reducer/reducer.js" />
-        <option value="$PROJECT_DIR$/../ToduList/components/AddTodo.js" />
-        <option value="$PROJECT_DIR$/../ToduList/index.js" />
-        <option value="$PROJECT_DIR$/../ToduList/components/TodoList.js" />
-        <option value="$PROJECT_DIR$/../ToduList/components/Footer.js" />
-        <option value="$PROJECT_DIR$/../ToduList/components/Todo.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/action/action.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/components/TodoTime.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/action/actions.js" />
+        <option value="$PROJECT_DIR$/containers/App.js" />
+        <option value="$PROJECT_DIR$/reducer/reducer.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/components/TodoList.js" />
+        <option value="$PROJECT_DIR$/components/Footer.js" />
+        <option value="$PROJECT_DIR$/components/Todo.js" />
+        <option value="$PROJECT_DIR$/components/AddTodo.js" />
       </list>
     </option>
   </component>
@@ -175,7 +236,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/../ToduList/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -198,6 +259,7 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -268,7 +330,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -300,7 +361,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.server.js">
-    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/../ToduList">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -341,6 +402,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -382,31 +449,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495603476962</updated>
-      <workItem from="1495603478223" duration="26237000" />
+      <workItem from="1495603478223" duration="26973000" />
+      <workItem from="1495675852058" duration="3124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26237000" />
+    <option name="totallyTimeSpent" value="30097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1622" height="1158" extended-state="1" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16624366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20543806" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20543806" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997986" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -421,7 +489,90 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/面试题/题目1：安装nodejs/node_openTest.js">
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reducer/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495626706900" expanded="true" signature="7:151" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="244:367" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="269:365" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="302:329" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="342:361" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="404:1012" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="429:1010" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="449:600" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="491:592" ph="{&quot;text&quot;: action.text...}" />
+            <marker date="1495626706900" expanded="true" signature="622:840" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="726:789" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="862:974" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="987:1006" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="1046:1077" ph="{&quot;visibilityFilter&quot;: visibilityFilter...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/containers/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495625966035" expanded="true" signature="7:328" ph="..." />
+            <marker date="1495625966035" expanded="true" signature="358:1032" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="371:1030" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1050:1324" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1102:1187" ph="{&quot;text&quot;: PropTypes.string.isRequired...}" />
+            <marker date="1495625966035" expanded="true" signature="1249:1310" ph="[...]" />
+            <marker date="1495625966035" expanded="true" signature="1362:1629" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1382:1627" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1420:1439" ph="..." />
+            <marker date="1495625966035" expanded="true" signature="1482:1532" ph="..." />
+            <marker date="1495625966035" expanded="true" signature="1572:1623" ph="..." />
+            <marker date="1495625966035" expanded="true" signature="1631:1764" ph="//..." />
+            <marker date="1495625966035" expanded="true" signature="1788:1919" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1799:1917" ph="{&quot;visibilityFilter&quot;: state.visibilityFilter...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495632048530" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495632048530" expanded="true" signature="46:120" ph="..." />
+            <marker date="1495632048530" expanded="true" signature="234:1513" ph="{...}" />
+            <marker date="1495632048530" expanded="true" signature="240:606" ph="//..." />
+            <marker date="1495632048530" expanded="true" signature="621:1511" ph="{...}" />
+            <marker date="1495632048530" expanded="true" signature="721:744" ph="{...}" />
+            <marker date="1495632048530" expanded="true" signature="1154:1495" ph="//..." />
+            <marker date="1495632048530" expanded="true" signature="1534:1700" ph="{&quot;onFilterChange&quot;: PropTypes.func.isRequired...}" />
+            <marker date="1495632048530" expanded="true" signature="1611:1686" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1495631369186" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495631369186" expanded="true" signature="46:249" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/AddTodo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -429,7 +580,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/package.json">
+    <entry file="file://$PROJECT_DIR$/components/Todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495633798839" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495633798839" expanded="true" signature="46:157" ph="..." />
+            <marker date="1495633798839" expanded="true" signature="203:681" ph="{...}" />
+            <marker date="1495633798839" expanded="true" signature="218:638" ph="{...}" />
+            <marker date="1495633798839" expanded="true" signature="397:490" ph="{...}" />
+            <marker date="1495633798839" expanded="true" signature="643:677" ph="//..." />
+            <marker date="1495633798839" expanded="true" signature="700:904" ph="{&quot;onClick&quot;: PropTypes.func.isRequired...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495631998342" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495631998342" expanded="true" signature="46:149" ph="..." />
+            <marker date="1495631998342" expanded="true" signature="199:723" ph="{...}" />
+            <marker date="1495631998342" expanded="true" signature="214:721" ph="{...}" />
+            <marker date="1495631998342" expanded="true" signature="746:1047" ph="{&quot;onTodoClick&quot;: PropTypes.func.isRequired...}" />
+            <marker date="1495631998342" expanded="true" signature="881:1021" ph="{&quot;text&quot;: PropTypes.string.isRequired...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/TodoTime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495620782149" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495620782149" expanded="true" signature="140:267" ph="{...}" />
+            <marker date="1495620782149" expanded="true" signature="155:265" ph="{...}" />
+            <marker date="1495620782149" expanded="true" signature="290:333" ph="{&quot;addTime&quot;: PropTypes.string.isRequired...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495623781318" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495623781318" expanded="true" signature="39:58" ph="/*...*/" />
+            <marker date="1495623781318" expanded="true" signature="240:255" ph="/*...*/" />
+            <marker date="1495623781318" expanded="true" signature="290:388" ph="{&quot;SHOW_ALL&quot;: 'SHOW_ALL'...}" />
+            <marker date="1495623781318" expanded="true" signature="390:411" ph="/*...*/" />
+            <marker date="1495623781318" expanded="true" signature="451:498" ph="{...}" />
+            <marker date="1495623781318" expanded="true" signature="534:576" ph="{...}" />
+            <marker date="1495623781318" expanded="true" signature="612:655" ph="{...}" />
+            <marker date="1495623781318" expanded="true" signature="701:755" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/面试题/题目1：安装nodejs/node_openTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
@@ -437,129 +657,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/.babelrc">
+    <entry file="file://$PROJECT_DIR$/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/server.js">
+    <entry file="file://$PROJECT_DIR$/reducer/reducer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/action/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1495626706900" expanded="true" signature="7:151" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="244:367" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="269:365" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="302:329" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="342:361" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="404:1012" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="429:1010" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="449:600" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="491:592" ph="{&quot;text&quot;: action.text...}" />
+            <marker date="1495626706900" expanded="true" signature="622:840" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="726:789" ph="{...}" />
+            <marker date="1495626706900" expanded="true" signature="862:974" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="987:1006" ph="..." />
+            <marker date="1495626706900" expanded="true" signature="1046:1077" ph="{&quot;visibilityFilter&quot;: visibilityFilter...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/reducer/reducer.js">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="264">
           <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#39#64#0" expanded="true" />
+            <marker date="1495631369186" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495631369186" expanded="true" signature="46:249" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/containers/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1073">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/components/TodoTime.js">
+    <entry file="file://$PROJECT_DIR$/containers/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1495625966035" expanded="true" signature="7:328" ph="..." />
+            <marker date="1495625966035" expanded="true" signature="358:1032" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="371:1030" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1050:1324" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1102:1187" ph="{&quot;text&quot;: PropTypes.string.isRequired...}" />
+            <marker date="1495625966035" expanded="true" signature="1249:1310" ph="[...]" />
+            <marker date="1495625966035" expanded="true" signature="1362:1629" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1382:1627" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1420:1439" ph="..." />
+            <marker date="1495625966035" expanded="true" signature="1482:1532" ph="..." />
+            <marker date="1495625966035" expanded="true" signature="1572:1623" ph="..." />
+            <marker date="1495625966035" expanded="true" signature="1631:1764" ph="//..." />
+            <marker date="1495625966035" expanded="true" signature="1788:1919" ph="{...}" />
+            <marker date="1495625966035" expanded="true" signature="1799:1917" ph="{&quot;visibilityFilter&quot;: state.visibilityFilter...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/components/Footer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="31" column="42" lean-forward="false" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#39#90#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/components/AddTodo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/components/TodoList.js">
+    <entry file="file://$PROJECT_DIR$/action/actions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#39#90#0" expanded="true" />
+            <marker date="1495623781318" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495623781318" expanded="true" signature="39:58" ph="/*...*/" />
+            <marker date="1495623781318" expanded="true" signature="240:255" ph="/*...*/" />
+            <marker date="1495623781318" expanded="true" signature="290:388" ph="{&quot;SHOW_ALL&quot;: 'SHOW_ALL'...}" />
+            <marker date="1495623781318" expanded="true" signature="390:411" ph="/*...*/" />
+            <marker date="1495623781318" expanded="true" signature="451:498" ph="{...}" />
+            <marker date="1495623781318" expanded="true" signature="534:576" ph="{...}" />
+            <marker date="1495623781318" expanded="true" signature="612:655" ph="{...}" />
+            <marker date="1495623781318" expanded="true" signature="701:755" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ToduList/components/Todo.js">
+    <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="-48">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#39#90#0" expanded="true" />
+            <marker date="1495604602470" expanded="true" signature="120:982" ph="{...}" />
+            <marker date="1495604602470" expanded="true" signature="198:598" ph="{...}" />
+            <marker date="1495604602470" expanded="true" signature="255:594" ph="{...}" />
+            <marker date="1495604602470" expanded="true" signature="278:365" ph="{...}" />
+            <marker date="1495604602470" expanded="true" signature="371:533" ph="{...}" />
+            <marker date="1495604602470" expanded="true" signature="602:974" ph="{...}" />
+            <marker date="1495604602470" expanded="true" signature="659:964" ph="{...}" />
+            <marker date="1495604602470" expanded="true" signature="677:753" ph="{...}" />
+            <marker date="1495604602470" expanded="true" signature="757:917" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/TodoTime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495620782149" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495620782149" expanded="true" signature="140:267" ph="{...}" />
+            <marker date="1495620782149" expanded="true" signature="155:265" ph="{...}" />
+            <marker date="1495620782149" expanded="true" signature="290:333" ph="{&quot;addTime&quot;: PropTypes.string.isRequired...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495631998342" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495631998342" expanded="true" signature="46:149" ph="..." />
+            <marker date="1495631998342" expanded="true" signature="199:723" ph="{...}" />
+            <marker date="1495631998342" expanded="true" signature="214:721" ph="{...}" />
+            <marker date="1495631998342" expanded="true" signature="746:1047" ph="{&quot;onTodoClick&quot;: PropTypes.func.isRequired...}" />
+            <marker date="1495631998342" expanded="true" signature="881:1021" ph="{&quot;text&quot;: PropTypes.string.isRequired...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495633798839" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495633798839" expanded="true" signature="46:157" ph="..." />
+            <marker date="1495633798839" expanded="true" signature="203:681" ph="{...}" />
+            <marker date="1495633798839" expanded="true" signature="218:638" ph="{...}" />
+            <marker date="1495633798839" expanded="true" signature="397:490" ph="{...}" />
+            <marker date="1495633798839" expanded="true" signature="643:677" ph="//..." />
+            <marker date="1495633798839" expanded="true" signature="700:904" ph="{&quot;onClick&quot;: PropTypes.func.isRequired...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495632048530" expanded="true" signature="0:38" ph="/** Created by 小羽 on 2017/5/24. ...*/" />
+            <marker date="1495632048530" expanded="true" signature="46:120" ph="..." />
+            <marker date="1495632048530" expanded="true" signature="234:1513" ph="{...}" />
+            <marker date="1495632048530" expanded="true" signature="240:606" ph="//..." />
+            <marker date="1495632048530" expanded="true" signature="621:1511" ph="{...}" />
+            <marker date="1495632048530" expanded="true" signature="721:744" ph="{...}" />
+            <marker date="1495632048530" expanded="true" signature="1154:1495" ph="//..." />
+            <marker date="1495632048530" expanded="true" signature="1534:1700" ph="{&quot;onFilterChange&quot;: PropTypes.func.isRequired...}" />
+            <marker date="1495632048530" expanded="true" signature="1611:1686" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/AddTodo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="37" column="29" lean-forward="false" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>

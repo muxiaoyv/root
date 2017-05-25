@@ -13,7 +13,7 @@ export default class AddTodo extends Component {
         return (
             <div>
                 {/*<input type='text' ref={(input)=>{this.input=input}} />*/}
-                <Input placeholder="default size"
+                <Input placeholder="添加事项"
                        ref={(input)=>{this.input=input}}
                        style={{
                            width:'200px'
@@ -35,7 +35,7 @@ export default class AddTodo extends Component {
         const node = this.input
         const text = node.refs.input.value.trim()
         this.props.onAddClick(text,this.addTime)
-        node.value = ''
+        node.refs.input.value = ''
     }
 
     handleChange(date, dateString){
